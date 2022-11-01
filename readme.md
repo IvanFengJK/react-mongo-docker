@@ -1,0 +1,1 @@
+Everything should have been set up. Just need to run `docker-compose up --build` and open browser [localhost:3000](localhost:3000) to access the page.
